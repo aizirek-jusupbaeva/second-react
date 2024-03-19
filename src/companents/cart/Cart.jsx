@@ -71,6 +71,7 @@ const Cart = ()=>{
                     <button className="click">ADD TO CART</button>
                 </div>
             </div>
+            <div><h1>HELLO, WORLD!!!</h1></div>
         </div>
     )
 }
