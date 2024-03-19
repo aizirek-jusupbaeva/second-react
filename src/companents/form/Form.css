@@ -1,0 +1,11 @@
+.text{
+    color: white;
+
+}
+.svg{
+    padding: 30px 0px 40px;
+}
+.name{
+    display: flex;
+    justify-content: center;
+}
