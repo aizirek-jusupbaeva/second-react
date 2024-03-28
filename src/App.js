@@ -5,8 +5,7 @@ import Form from './companents/form/Form';
 function App() {
   return (
     <div className="App">
-     <Form/>
-     <Cart/>
+     
     </div>
   );
 }
