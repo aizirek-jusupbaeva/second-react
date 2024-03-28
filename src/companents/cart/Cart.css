@@ -1,0 +1,24 @@
+.block{
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+}
+.block img{
+    display: flex;
+    width: 100%;
+}
+.box-price{
+    display: flex;
+    justify-content: space-around;
+}
+.cart_button{
+    background-color: yellow;
+    padding: 15px;
+}
+.cart_line_price{
+    text-decoration: line-through;
+    color: white;
+}
+.cart_price{
+    color: white;
+}
